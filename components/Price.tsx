@@ -1,6 +1,6 @@
 export default function Price() {
 	return (
-		<div className='py-16 px-6 max-w-5xl mx-auto w-full'>
+		<div id={'price'} className='py-16 px-6 max-w-5xl mx-auto w-full'>
 			<h2 className='text-3xl font-bold mb-8 text-center'>Price</h2>
 
 			<div className='grid md:grid-cols-2 gap-8'>
@@ -47,7 +47,7 @@ export default function Price() {
 						</ul>
 					</div>
 
-					<a href='https://t.me/yana_vocalcoach'>
+					<a href='https://secure.wayforpay.com/payment/s11c3419854ab'>
 						<button className='mt-6 w-full bg-gray-100 hover:bg-gray-200 text-gray-800 font-bold py-2 px-4 rounded transition cursor-pointer'>
 							Choose
 						</button>
@@ -115,7 +115,7 @@ export default function Price() {
 							Certificate of completion
 						</li>
 					</ul>
-					<a href='https://t.me/yana_vocalcoach'>
+					<a href='https://secure.wayforpay.com/payment/s58b007d1cb05'>
 						<button className='mt-6 w-full bg-yellow-400 hover:bg-yellow-300 text-red-800 font-bold py-2 px-4 rounded transition shadow-lg hover:shadow-xl cursor-pointer'>
 							Choose
 						</button>
