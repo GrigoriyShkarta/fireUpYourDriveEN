@@ -26,16 +26,16 @@ export default function WhatIncludedSection() {
 						📚 PDF summaries for each lesson — key points, technical nuances,
 						and helpful tips in a convenient format.
 					</li> */}
-					<li>
-						📩 Personalized feedback from me — I will help you hear your
-						mistakes, adjust your technique, and guide you towards achieving the
-						desired sound.
-					</li>
-					<li>
-						🏆 Certificate of marathon completion — a confirmation of your new
-						skills that you can add to your portfolio or use as proof of
-						professional development.
-					</li>
+					{/*<li>*/}
+					{/*	📩 Personalized feedback from me — I will help you hear your*/}
+					{/*	mistakes, adjust your technique, and guide you towards achieving the*/}
+					{/*	desired sound.*/}
+					{/*</li>*/}
+					{/*<li>*/}
+					{/*	🏆 Certificate of marathon completion — a confirmation of your new*/}
+					{/*	skills that you can add to your portfolio or use as proof of*/}
+					{/*	professional development.*/}
+					{/*</li>*/}
 				</ul>
 			</div>
 		</section>

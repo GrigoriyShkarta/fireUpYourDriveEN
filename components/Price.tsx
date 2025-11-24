@@ -9,7 +9,7 @@ export default function Price() {
             BLACK FRIDAY – Limited Offer!
           </div>
           <h2 className='text-4xl font-bold mb-4'>Promotional Prices</h2>
-          <p className='text-red-600'>Discounts valid only until November 28</p>
+          <p className='text-red-600'>Discounts valid only until November 30</p>
         </div>
         
 				{/* Basic option */}
@@ -141,7 +141,7 @@ export default function Price() {
             -50%
           </div>
           
-          <h3 className='text-2xl font-semibold mb-4'>Premium</h3>
+          <h3 className='text-2xl font-semibold mb-4'>Prise</h3>
           
           {/* Старая цена */}
           <div className='mb-2'>

@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import {useState} from 'react'
 
 export default function FAQ() {
 	// State to track the open question
@@ -76,22 +76,22 @@ const faqData = [
 	{
 		question: '❓ What is included in the marathon program?',
 		answer:
-			"Six video lessons, presentations, and author's rock exercises. " +
-			'The "Premium" plan also includes a week of feedback and a marathon completion certificate.',
+			"Six video lessons, presentations, and author's rock exercises. "
+			// 'The "Premium" plan also includes a week of feedback and a marathon completion certificate.',
 	},
-	{
-		question: '❓ How does feedback work?',
-		answer:
-			'You can send your exercise or song recordings via Telegram, and I will provide personalized recommendations on technique, sound, and mistakes.',
-	},
+	// {
+	// 	question: '❓ How does feedback work?',
+	// 	answer:
+	// 		'You can send your exercise or song recordings via Telegram, and I will provide personalized recommendations on technique, sound, and mistakes.',
+	// },
 	{
 		question: '❓ Do I need special equipment to participate?',
 		answer:
 			'Any device with internet access and video recording capability (even a smartphone) is enough.',
 	},
-	{
-		question: '❓ Can I get a certificate?',
-		answer:
-			'Yes, if you choose the "Premium" plan! After successfully completing the marathon, you will receive a certificate confirming your new skills and knowledge.',
-	},
+	// {
+	// 	question: '❓ Can I get a certificate?',
+	// 	answer:
+	// 		'Yes, if you choose the "Premium" plan! After successfully completing the marathon, you will receive a certificate confirming your new skills and knowledge.',
+	// },
 ]
